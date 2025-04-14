@@ -1,0 +1,248 @@
+Loading python-ml/22-12-21-python3.9
+  Loading requirement: CUDA/11.6.0
+[I 05:25:49.370 NotebookApp] Serving notebooks from local directory: /dcs/21/u2107561
+[I 05:25:49.370 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 05:25:49.370 NotebookApp] http://gecko-05:11888/?token=d8aaeb86c0aba796ac2fa5179e0f05a8dc90149530078ca1
+[I 05:25:49.370 NotebookApp]  or http://127.0.0.1:11888/?token=d8aaeb86c0aba796ac2fa5179e0f05a8dc90149530078ca1
+[I 05:25:49.370 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 05:25:49.380 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///dcs/21/u2107561/.local/share/jupyter/runtime/nbserver-126343-open.html
+    Or copy and paste one of these URLs:
+        http://gecko-05:11888/?token=d8aaeb86c0aba796ac2fa5179e0f05a8dc90149530078ca1
+     or http://127.0.0.1:11888/?token=d8aaeb86c0aba796ac2fa5179e0f05a8dc90149530078ca1
+[W 05:26:39.656 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20250401052548 (137.205.113.129) 11.150000ms referer=http://127.0.0.1:11888/notebooks/Ma4k9/MA4K9/TransformerED.ipynb
+[I 05:26:39.657 NotebookApp] Kernel started: 8546c741-c41e-4370-b6bb-fb3249039246, name: python3
+[I 05:27:04.983 NotebookApp] Creating new notebook in /Ma4k9/MA4K9
+[W 05:27:05.884 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20250401052548 (137.205.113.129) 2.130000ms referer=http://127.0.0.1:11888/notebooks/Ma4k9/MA4K9/Untitled1.ipynb?kernel_name=python3
+[I 05:27:05.913 NotebookApp] Kernel started: bda3e030-9c00-482e-9ed4-b72fefa2b7f0, name: python3
+[I 05:28:48.316 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 05:29:05.908 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+/local/java/python-ml/22-12-21-python3.9/lib/python3.9/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/local/java/python-ml/22-12-21-python3.9/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 05:30:03.229 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 05:31:05.913 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:33:05.935 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:35:05.911 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:37:05.921 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:37:59.129 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 05:38:16.450 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 05:39:06.192 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:39:36.046 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:41:05.936 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:43:05.916 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:45:05.925 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:46:54.931 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 05:47:05.923 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:48:04.232 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 05:49:05.921 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:51:05.919 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:53:05.922 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:55:05.923 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:57:05.930 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 05:59:14.214 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[W 06:02:06.945 NotebookApp] WebSocket ping timeout after 119982 ms.
+[W 06:02:10.735 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 06:02:11.948 NotebookApp] Starting buffering for bda3e030-9c00-482e-9ed4-b72fefa2b7f0:d8455c9ed3dc479b80c15db92f575750
+[I 06:02:15.736 NotebookApp] Starting buffering for 8546c741-c41e-4370-b6bb-fb3249039246:9f33e5e592064eb4b6cf0ba1ce0990b3
+[W 06:02:36.577 NotebookApp] Notebook Ma4k9/MA4K9/Untitled1.ipynb is not trusted
+[W 06:02:36.962 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20250401052548 (137.205.113.129) 1.380000ms referer=http://127.0.0.1:11888/notebooks/Ma4k9/MA4K9/Untitled1.ipynb?kernel_name=python3
+[I 06:03:23.207 NotebookApp] Restoring connection for 8546c741-c41e-4370-b6bb-fb3249039246:9f33e5e592064eb4b6cf0ba1ce0990b3
+[I 06:04:37.197 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:06:37.205 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:08:37.205 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:10:36.992 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:12:36.976 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:14:36.978 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:16:36.975 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:18:36.986 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:20:11.958 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 06:20:36.982 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:21:37.352 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 06:22:36.990 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:25:14.217 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:27:14.227 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:36:21.130 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 06:36:37.223 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:39:05.803 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:40:42.536 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:42:37.212 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:45:04.224 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:46:37.017 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:48:57.558 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:50:37.229 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:53:14.234 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:55:04.513 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:56:37.223 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 06:59:14.235 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:01:14.232 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:03:14.232 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:06:36.337 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 07:06:37.000 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:08:37.956 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:11:14.242 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:12:37.237 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:15:14.270 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:17:14.254 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:19:14.261 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:21:14.240 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:25:14.235 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:27:14.527 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:29:14.268 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:31:14.351 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:33:14.268 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:34:37.027 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:34:37.120 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 07:37:01.671 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:38:37.028 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:40:37.317 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:42:37.015 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:42:45.281 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 07:45:14.245 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:47:09.505 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:48:37.036 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:50:37.026 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:52:37.323 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:54:37.252 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:56:37.248 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 07:59:14.261 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:01:13.652 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:03:14.257 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:07:14.254 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:08:41.810 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:09:00.646 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 08:10:37.037 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:12:37.249 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:14:37.260 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:15:17.727 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 08:16:37.250 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:18:37.031 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:20:37.037 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:23:14.273 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:25:14.290 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:25:51.139 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 08:26:37.036 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:28:37.038 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:42:37.044 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:44:37.049 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:46:37.045 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:48:37.048 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:50:37.064 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:54:37.045 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:56:37.051 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:57:15.013 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 08:58:37.064 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 08:59:58.433 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 09:00:37.080 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:02:37.052 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:04:37.127 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:06:37.067 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:08:37.067 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:10:37.079 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:14:37.066 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:18:37.067 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:20:37.065 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:22:37.068 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:26:37.069 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:28:37.067 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:30:37.070 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 09:32:37.072 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:20:48.469 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:21:42.478 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:21:54.443 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:22:37.342 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:24:37.110 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:26:37.113 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:28:37.110 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:30:37.302 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:32:37.148 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:33:46.489 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 10:34:02.808 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 10:34:37.085 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:37:14.338 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:38:37.093 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:40:37.172 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:42:37.094 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:50:07.325 NotebookApp] 302 GET /notebooks/Ma4k9/MA4K9/ (137.205.113.129) 0.440000ms
+[I 10:50:07.414 NotebookApp] 302 GET /notebooks/Ma4k9/MA4K9 (137.205.113.129) 1.410000ms
+[I 10:50:37.308 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:53:14.330 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:55:14.342 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:57:14.338 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 10:58:53.764 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:00:37.095 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:03:14.340 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:05:14.343 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:05:39.214 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 11:06:37.099 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:08:37.321 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:11:14.347 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:12:37.101 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:14:49.796 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:16:37.112 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:19:14.372 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:20:37.103 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:22:37.114 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:24:37.112 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:26:37.111 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:28:21.110 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 11:28:37.114 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:30:37.112 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:33:14.354 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:35:14.338 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:36:37.111 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:38:37.121 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:40:37.238 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:40:43.345 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 11:43:14.348 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:45:14.352 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:47:14.355 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:49:14.354 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:51:14.371 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:52:37.348 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:54:52.810 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:55:27.697 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 11:56:37.116 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 11:58:37.396 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:00:37.342 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:02:37.341 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:05:14.358 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:11:14.372 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:13:14.422 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:15:02.649 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:15:20.526 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 12:15:26.466 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[W 12:15:48.090 NotebookApp] Notebook Ma4k9/MA4K9/AttentionApproximator.ipynb is not trusted
+[I 12:15:49.334 NotebookApp] Kernel started: 3e4fc411-122c-4d65-9fae-0d423b5d73fd, name: python3
+[W 12:15:49.396 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20250401052548 (137.205.113.129) 2.910000ms referer=http://127.0.0.1:11888/notebooks/Ma4k9/MA4K9/AttentionApproximator.ipynb
+[I 12:16:37.418 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:18:44.281 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:21:14.367 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:23:14.378 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:25:34.868 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 12:26:37.185 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:28:37.145 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:28:41.574 NotebookApp] Kernel interrupted: bda3e030-9c00-482e-9ed4-b72fefa2b7f0
+[I 12:31:14.391 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:33:14.384 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:37:14.382 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:40:37.431 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:44:37.432 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:49:14.397 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:53:14.376 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 12:56:37.365 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:01:14.371 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:05:14.388 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:09:14.376 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:10:37.228 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:12:37.145 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:15:14.394 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:48:37.167 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 13:50:37.167 NotebookApp] Saving file at /Ma4k9/MA4K9/Untitled1.ipynb
+[I 15:48:42.302 NotebookApp] Starting buffering for 8546c741-c41e-4370-b6bb-fb3249039246:9f33e5e592064eb4b6cf0ba1ce0990b3
+[I 15:48:42.303 NotebookApp] Starting buffering for 3e4fc411-122c-4d65-9fae-0d423b5d73fd:9d636d50ea664c24a9980623f6afe3bb
+[I 15:48:42.303 NotebookApp] Starting buffering for bda3e030-9c00-482e-9ed4-b72fefa2b7f0:6d16ef0668fa490a8200e5f52ad0bd4f
+slurmstepd: error: *** JOB 1136688 ON gecko-05 CANCELLED AT 2025-04-01T17:26:08 DUE TO TIME LIMIT ***
